@@ -2,7 +2,8 @@
   "name": "kablip-mvp",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "@react-three/cannon": "6.6.0",
