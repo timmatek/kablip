@@ -1,6 +1,6 @@
 {
   "name": "kablip-mvp",
-  "version": "1.0.0",
+"@react-three/cannon": "6.2.1"
   "scripts": {
     "dev": "vite"
   },
